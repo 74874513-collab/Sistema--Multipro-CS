@@ -1,35 +1,35 @@
 # Sistema--Multipro-CS
 
-## 📖 Descripción
+## Descripción
 Este proyecto consiste en el desarrollo de un sistema web para la gestión de ingreso y salida de productos de almacén, así como el registro de usuarios.
 
-## 🎯 Objetivo
+## Objetivo
 Optimizar los procesos operativos de la empresa mediante la automatización del control de inventario.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Registro de usuarios
 - Registro de productos
 - Control de ingresos y salidas
 - Consulta de inventario
 - Actualización y eliminación de registros
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Spring Boot
 - Thymeleaf
 - JPA
 - HTML, CSS, JavaScript
 
-## 📊 Beneficios
+## Beneficios
 - Reducción de errores humanos
 - Mejora en la toma de decisiones
 - Información en tiempo real
 - Optimización de procesos
 
-## 👨‍💻 Integrantes
-- Adriana Gaspar Prado
+## Integrantes
 - Diana Iris Elias Yañez
+- Adriana Gaspar Prado
 - Jhefryn Alexander Romero Surichaqui
-- Fabrizzio Miguel Torres Gozalves
+- Fabrizzio Miguel Torres Gozalves (Coordinador)
 
-## 📌 Estado del proyecto
-🚧 En desarrollo (fase inicial - interfaces)
+## Estado del proyecto
+En fase inicial (interfaces)
